@@ -1,3 +1,3 @@
 # Java8Example
 
-It contains Java example witj Java 8 feature
+It contains Java example with Java 8 feature
